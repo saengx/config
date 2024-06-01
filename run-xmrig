@@ -1,5 +1,5 @@
 #!/bin/bash
 
 cd
-cd ../etc/src-miner
+cd ../etc/set-xmrig
 python3 main.py
