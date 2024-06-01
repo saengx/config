@@ -11,14 +11,14 @@ def OffMiner():
    banneredit()
    try:
        print("ตัวอย่าง:")
-       print(" \033[92mrandomx.rplant.xyz:7080\033[00m")
-       print(" \033[92mstratum+tcp://pool.vkbit.com:3333\033[00m")
+       print(" \033[92m.rplant.xyz:7080\033[00m")
+       print(" \033[92mghostrider.sea.mine.zpool.ca:5354\033[00m")
        pool = input(" pool : ")
        print("\033[36m-----------------------------------------\033[0m")
 
        print("ตัวอย่าง:")
-       print("  \033[92mramdomx \033[00m")
-       algo = input("password : ")
+       print("  \033[92mrandomx  ghostrider  \033[00m")
+       algo = input("algo : ")
        print("\033[36m-----------------------------------------\033[0m")
         
        print("ตัวอย่าง: \033[92m86i9GZq34J5Vi3DZdXjmeVJCw6Lny91tHd3BiwR3sAr84rM8Lo5nCAsKwqhPA7EeR1cspLCyCL2dqaLKq1d5pYRVSy2BXBt\033[00m")
