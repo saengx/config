@@ -11,7 +11,7 @@ def OffMiner():
    banneredit()
    try:
        print("ตัวอย่าง:")
-       print(" \033[92m.rplant.xyz:7080\033[00m")
+       print(" \033[92mrandomx.rplant.xyz:7080\033[00m")
        print(" \033[92mghostrider.sea.mine.zpool.ca:5354\033[00m")
        pool = input(" pool : ")
        print("\033[36m-----------------------------------------\033[0m")
