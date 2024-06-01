@@ -28,6 +28,7 @@ mv backup /data/data/com.termux/files/usr/bin
 mv restore /data/data/com.termux/files/usr/bin
 mv install.txt /storage/emulated/0/download
 
+cd set-xmrig && mv edit.py ../../etc/set-xmrig
 chmod +x miner
 
 cd && cd ../etc
