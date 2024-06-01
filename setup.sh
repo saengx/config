@@ -20,8 +20,6 @@ apt-get install figlet -y
 apt-get install python3-progress -y
 apt-get install python3-requests -y
 
-
-mv set-xmrig ../../etc
 mv edit-xmrig ../../bin
 mv run-xmrig ../../bin
 mv update ../../bin
